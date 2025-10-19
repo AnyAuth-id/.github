@@ -1,2 +1,1 @@
-# .github
-AnyAuth
+# AnyAuth
